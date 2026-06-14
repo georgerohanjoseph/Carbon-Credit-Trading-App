@@ -1,0 +1,6 @@
+{
+  "name": "Carbon Trade",
+  "description": "Global multi-currency carbon credit trading platform connecting industries with farmers and forest departments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
